@@ -2,4 +2,4 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Leebonggu&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leebonggu&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
